@@ -1,0 +1,103 @@
+-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw
+
+-- Bytecode (Base64):
+-- BgMfDERldlByb2R1Y3RJZARFbnVtCEluZm9UeXBlB1Byb2R1Y3QOR2V0UHJvZHVjdEluZm8FcGFpcnMFcGNhbGwMUHJpY2VJblJvYnV4ClJvYnV4UHJpY2UEZ2FtZRJNYXJrZXRwbGFjZVNlcnZpY2UKR2V0U2VydmljZQdyZXF1aXJlEVJlcGxpY2F0ZWRTdG9yYWdlBExvYWQJQ29uc3RhbnRzBUNvaW5zB0ltYWdlSWQKQ29pbnNUaWVyMQpDb2luc1RpZXIyCkNvaW5zVGllcjMKQ29pbnNUaWVyNApDb2luc1RpZXI1BEdpZnQOR2lmdENvaW5zVGllcjEOR2lmdENvaW5zVGllcjIOR2lmdENvaW5zVGllcjMOR2lmdENvaW5zVGllcjQOR2lmdENvaW5zVGllcjUEdGFzawVzcGF3bgADBAACAAAACvsAAAD7AwEATQIDfQAAAACkAwQAAwgQwLwAAHUFAAAAnwAEAIIAAAAGAwEDAgMDAwQEAwgQwAMFABkAARgAAAAAAAAAAAAAGgAAAAAIAAMAAAAWpAABAAAAAED7AQAAnwACBBcADACkBQMAAAAgQNkGAAASAgEAEgAEAJ8FAgMOBQUADgYEAE0HBhsEAAAAMAcE5gUAAABuAPP/AgAAAKkAAQDeAAIAggABAAYDBgQAAABAAwcEAAAgQAMIAwkBABcAARgAAAAAAAEAAAAAAAMAAQAAAPsACAABGAAAAAAHAAABAgDGAaMAAACkAAEAAAAAQG8CAgC8AAAWAwAAAJ8AAwKkAQUAAABAQKQEAQAAAABATQMEPwYAAABNAgN+BwAAAJ8BAgJSAgEAbwMIAJ8CAgKpAwAA/wQFAAAAAADiBQ0AjAbCATAGBYcJAAAAjAYxADAGBeYKAAAAbwYOADAGBX0LAAAAbwYPADAGBZYMAAAAMAUEnhAAAADiBQ0AjAZGBTAGBYcJAAAAjAaVADAGBeYKAAAAbwYRADAGBX0LAAAAbwYPADAGBZYMAAAAMAUE0hIAAADiBQ0AjAaIEzAGBYcJAAAAjAbzATAGBeYKAAAAbwYTADAGBX0LAAAAbwYPADAGBZYMAAAAMAUEtxQAAADiBQ0AjAZESDAGBYcJAAAAjAZFBTAGBeYKAAAAbwYVADAGBX0LAAAAbwYPADAGBZYMAAAAMAUE2xYAAADiBQ0AbwYXADAGBYcJAAAAjAafDzAGBeYKAAAAbwYYADAGBX0LAAAAbwYPADAGBZYMAAAAMAUEQRkAAADiBRsAqQYBADAGBUYaAAAAjAaQATAGBYcJAAAAjAYxADAGBeYKAAAAbwYcADAGBX0LAAAAbwYPADAGBZYMAAAAMAUE6x0AAADiBRsAqQYBADAGBUYaAAAAjAZGBTAGBYcJAAAAjAaVADAGBeYKAAAAbwYeADAGBX0LAAAAbwYPADAGBZYMAAAAMAUEhh8AAADiBRsAqQYBADAGBUYaAAAAjAaIEzAGBYcJAAAAjAbzATAGBeYKAAAAbwYgADAGBX0LAAAAbwYPADAGBZYMAAAAMAUEtyEAAADiBRsAqQYBADAGBUYaAAAAjAZESDAGBYcJAAAAjAZFBTAGBeYKAAAAbwYiADAGBX0LAAAAbwYPADAGBZYMAAAAMAUERiMAAADiBRsAqQYBADAGBUYaAAAAbwYXADAGBYcJAAAAjAafDzAGBeYKAAAAbwYkADAGBX0LAAAAbwYPADAGBZYMAAAAMAUEeCUAAAAqAwgAAAAAgKQFKAAAnGCC2QYAABIABAASAAAAEgED/58FAgHBAwAAggQCACkDCgQAAABAAwsDDAMNBAAAQEADDgMPAxADEQMJAwEDEgUECQoLDAIAAIC16DPMQQIAACC8/EHxQQMTAgAAALroM8xBAxQCAAAAwOgzzEEDFQIAAADF6DPMQQMWAgAAAAAATO1AAgAAgMjoM8xBAxcDGAUFGgkKCwwCAAAA7jCT20EDGQIAAIARMZPbQQMaAgAAwDAxk9tBAxsCAABAVDGT20EDHAIAAIBtMZPbQQMdAx4DHwQAnGCCAQEBAAEYAAAAAAAAAAEAAAAAAAAAAAEAAAECAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAQAAAAAAAA0AAQAAAAACBZWFT71jIF+pWRFogDztMXWNkjs3Ue9O
+
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-12-11 01:05:48
+-- Luau version 6, Types version 3
+-- Time taken: 0.005536 seconds
+
+local var1_upvw = false
+local module_upvr = {
+	CoinsTier1 = {
+		Coins = 450;
+		RobuxPrice = 49;
+		DevProductId = 946327915;
+		ImageId = 4632595394;
+	};
+	CoinsTier2 = {
+		Coins = 1350;
+		RobuxPrice = 149;
+		DevProductId = 946327924;
+		ImageId = 4632595394;
+	};
+	CoinsTier3 = {
+		Coins = 5000;
+		RobuxPrice = 499;
+		DevProductId = 946327936;
+		ImageId = 4632595394;
+	};
+	CoinsTier4 = {
+		Coins = 18500;
+		RobuxPrice = 1349;
+		DevProductId = 946327946;
+		ImageId = 4632595394;
+	};
+	CoinsTier5 = {
+		Coins = 60000;
+		RobuxPrice = 3999;
+		DevProductId = 946327953;
+		ImageId = 4632595394;
+	};
+	GiftCoinsTier1 = {
+		Gift = true;
+		Coins = 400;
+		RobuxPrice = 49;
+		DevProductId = 1850524600;
+		ImageId = 4632595394;
+	};
+	GiftCoinsTier2 = {
+		Gift = true;
+		Coins = 1350;
+		RobuxPrice = 149;
+		DevProductId = 1850524742;
+		ImageId = 4632595394;
+	};
+	GiftCoinsTier3 = {
+		Gift = true;
+		Coins = 5000;
+		RobuxPrice = 499;
+		DevProductId = 1850524867;
+		ImageId = 4632595394;
+	};
+	GiftCoinsTier4 = {
+		Gift = true;
+		Coins = 18500;
+		RobuxPrice = 1349;
+		DevProductId = 1850525009;
+		ImageId = 4632595394;
+	};
+	GiftCoinsTier5 = {
+		Gift = true;
+		Coins = 60000;
+		RobuxPrice = 3999;
+		DevProductId = 1850525110;
+		ImageId = 4632595394;
+	};
+}
+if var1_upvw == false then
+	local MarketplaceService_upvr = game:GetService("MarketplaceService")
+	task.spawn(function() -- Line 23
+		--[[ Upvalues[3]:
+			[1]: module_upvr (readonly)
+			[2]: MarketplaceService_upvr (readonly)
+			[3]: var1_upvw (read and write)
+		]]
+		for _, v_upvr in pairs(module_upvr) do
+			local pcall_result1, pcall_result2 = pcall(function() -- Line 25
+				--[[ Upvalues[2]:
+					[1]: MarketplaceService_upvr (copied, readonly)
+					[2]: v_upvr (readonly)
+				]]
+				return MarketplaceService_upvr:GetProductInfo(v_upvr.DevProductId, Enum.InfoType.Product)
+			end)
+			if pcall_result1 and pcall_result2 then
+				v_upvr.RobuxPrice = pcall_result2.PriceInRobux
+			end
+		end
+		var1_upvw = true
+	end)
+end
+return module_upvr
